@@ -13,7 +13,7 @@ This project demonstrates how to dynamically modify the properties of a `div` el
 - Interactive DOM manipulation to showcase real-time styling changes.
 
 ## Instructions to View the Hosted Version
-1. Visit the hosted version of the project using this [link](#https://enz048.github.io/DOM-Project-1/).
+1. Visit the hosted version of the project using this [link](https://enz048.github.io/DOM-Project-1/).
 2. Interact with the `div` element to see the changes in style applied dynamically through JavaScript.
 
 ## Implementation Details
@@ -36,6 +36,6 @@ This project demonstrates how to dynamically modify the properties of a `div` el
 
 
 ## Hosted Link
-You can access the live version of this project [here](#https://enz048.github.io/DOM-Project-1/).
+You can access the live version of this project [here](https://enz048.github.io/DOM-Project-1/).
 
 Happy Coding!
